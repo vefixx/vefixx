@@ -22,7 +22,9 @@
 **Если у вас есть вопросы, предложения или вы хотите просто пообщаться, не стесняйтесь связаться со мной:**
 
 Discord: fkjyfeq
+
 Discord сервер: https://discord.gg/NCxYg7skc5
+
 Telegram: @vsupman
 
 YouTube: https://www.youtube.com/channel/UCx0BixuOCI65D8c3fBjC2Zw
