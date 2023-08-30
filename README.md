@@ -9,13 +9,13 @@
 # Любимые библиотеки
 Моя разработка ботов невозможна без мощных инструментов. Вот некоторые из моих любимых библиотек:
 
-**aiogram**: Эта библиотека помогает мне создавать мощные и удобные боты для Telegram. Ее гибкие возможности позволяют реализовывать разнообразные функции.
+**[aiogram](https://aiogram.dev/)**: Эта библиотека помогает мне создавать мощные и удобные боты для Telegram. Ее гибкие возможности позволяют реализовывать разнообразные функции.
 
-**nextcord**: Для разработки Discord-ботов я использую nextcord. С ее помощью мои боты обретают голос и личность, взаимодействуя с пользователями в чате.
+**[nextcord](https://docs.nextcord.dev/en/stable/)**: Для разработки Discord-ботов я использую nextcord. С ее помощью мои боты обретают голос и личность, взаимодействуя с пользователями в чате.
 
-**discord.py**: Еще одна важная библиотека для создания Discord-ботов. Она предоставляет множество инструментов для работы с API Discord.
+**[discord.py](https://discordpy.readthedocs.io/en/stable/)**: Еще одна важная библиотека для создания Discord-ботов. Она предоставляет множество инструментов для работы с API Discord.
 
-**requests | aiohttp**: Самые важные для меня библиотеки для отправки [Get/Post](https://guruweba.com/html/metody-get-i-post-ispolzovanie-i-otlichiya/) запросов.
+**[requests](https://sky.pro/media/modul-requests-v-python/) | [aiohttp](https://docs.aiohttp.org/en/stable/)**: Самые важные для меня библиотеки для отправки [Get/Post](https://guruweba.com/html/metody-get-i-post-ispolzovanie-i-otlichiya/) запросов.
 
 # Мой опыт
 На данный момент у меня есть опыт разработки Discord-ботов с большим числом пользователей на [моем сервере](https://discord.gg/NCxYg7skc5). Мои боты активно взаимодействуют с сообществами и помогают участникам получать новые возможности и удобства.
@@ -30,7 +30,7 @@ Discord: fkjyfeq
 
 Discord сервер: https://discord.gg/NCxYg7skc5
 
-Telegram: @vsupman
+Telegram: [@vsupman](https://t.me/vsupman)
 
 YouTube: https://www.youtube.com/channel/UCx0BixuOCI65D8c3fBjC2Zw
 
