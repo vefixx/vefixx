@@ -27,6 +27,9 @@ I also automating actions on web-sites. One of them marketplace - [FunPay](https
 
 **Development with API**: I development with API on such web-servers: **[VK](https://vk.com/)**, **[Discord](https://discord.com)**, **Telegram**, and other.
 
+# If you want to support me:
+Card: *4377 7237 7634 0170* (Tinkoff)
+
 
 # My contacts
 If you have questions, offers or you want talk with me, dont be shy: [My VK](https://vk.com/vefixx)
