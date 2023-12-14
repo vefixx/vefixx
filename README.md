@@ -1,5 +1,5 @@
 # Hello, I'm [Artem](https://vk.com/vefixx)! 👋
-Hello! My name is Artem, I'm 16 years old, and I'm a Python developer. I create bots for Discord, VK, and Telegram, as well as developing parser scripts.
+Hello! My name is Artem, I'm 16 years old, and I'm a developer. I create bots for Discord, VK, and Telegram, as well as developing parser scripts etc.
 
 # My hobbies
 I not just writing code, I create bots with real emotions
@@ -44,7 +44,6 @@ YouTube: https://www.youtube.com/channel/UCx0BixuOCI65D8c3fBjC2Zw
 
 VK: https://vk.com/vefixx
 
-😊
 
 # My code
 ## Part code of my bot №1
