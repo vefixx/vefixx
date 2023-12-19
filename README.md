@@ -1,58 +1,43 @@
-# Hello, I'm [Artem](https://vk.com/vefixx)! 👋
-Hello! My name is Artem, I'm 16 years old, and I'm a developer. I create bots for Discord, VK, and Telegram, as well as developing parser scripts etc.
+# Welcome to my GitHub profile! 👋
+### Hello, my name is Artem, or **vefixx**. I'm **C#** and **Python** developer, for the most part I'm **developer of the bots**.
 
-# My hobbies
-I not just writing code, I create bots with real emotions
+## About me and my projects
+My bots is universal and suitable for everyone. I can write the script or bot for users, Of course it's paid.
 
+I also have popular bot of discord, his name is **[AutoposterBot](https://youtu.be/c4wnireOCho)**, and I have my own discord server, where on this moment **650+ users** | - **[click](https://discord.gg/NCxYg7skc5)**.
+And i can try write bots not only **Python**, but also on **C#**.
 
-**Requests**: I try devote time not only for bots, but and for scripts, which will be useful not just to me. I love write script for send requests on web-server and integrate their in my bots.
+## Only bots? No!
+I can make not only bots. In my repositories you can find other scripts, for example: **Discord messages listener**, where you connect to discord websockets and can read new message in real-time.
+**And that not all!** I also create Applications on **[WPF framework](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/overview/?view=netdesktop-8.0)** by Microsoft. You can find them in my repositories.
 
-# My favorite libraries 
-My development impossible without powerful development tools. Here some of my favorite libraries:
+## What about [API](https://en.wikipedia.org/wiki/API)?
+**API (Application Programming Interface)** - it is my favourite. I use API, where possible. For example:
+- **Discord API** - I use discord api for my create my bots, and for my scripts.
+- **Telegram API** - As well for bots, and make scripts with him.
+- **Other** - and i use other api. Sometimes i forced create my own api on website for my goals, because some websites dont have official api.
 
+## My favourite program languages and IDE
+- **The first language is C#**. Why? Because C# more interested for me than **Python**, but **Python also include in the top**
+- **Python** - is the good language. I started with him. Thanks to him, I started my way.
 
-**[aiogram](https://aiogram.dev/)**: This library help me create powerful and useful bots for Telegram. Her flexible opportunities allow me to realize different functions.
+My favourite IDE is **Pycharm - for Python** and **Visual Studio 2022 - for C#**
 
-**[nextcord](https://docs.nextcord.dev/en/stable/)**: For development Discord bots i use nextcord library. With her my bots get a voice and personality, interacting with users in chat
+## My best projects
+### Bots
+- **AutoposterBot** - is my first discord bot on **Python**. This bot can post your messages in discord channels even if your PC is off. In the simple words is a bot that sends messages on your behalf by itself. **He have 1000+ users**, and discord official verification him.
+- **Vmessage bot** - my second bot. **You can set up an auto-reply to private messages (DM messages)**. I have developed it recently and it is going to expand.
+- **CalcBot** - This bot can help you with calculations. I create him for GTA RP players, so that can count their profits.
 
-**[discord.py](https://discordpy.readthedocs.io/en/stable/)**: One more important library for create Discord bots. This library presents a variety of tools for work with Discord API
+### Scripts and applications
+- **VInfinity application (for discord)** - it is my best application in my mind that is still in development. This my most hardly project. He have open-source, and you can find source code in my repositories.
+- I also have scripts on **Selenium**, where i automating things in web browser. I usually make this for self.
+- I create script for [FunPay](https://funpay.com/) that for auto update lots and auto up lots. It is very useful
 
-
-**[requests](https://sky.pro/media/modul-requests-v-python/) | [aiohttp](https://docs.aiohttp.org/en/stable/)**: Very important library for me for send requests on web-server [Get/Post](https://guruweba.com/html/metody-get-i-post-ispolzovanie-i-otlichiya/)
-
-# My expirience
-On this time i have Discord bot with a lot of users on my [discord server](https://discord.gg/NCxYg7skc5). My bots active interact with users and help them.
-
-I also automating actions on web-sites. One of them marketplace - [FunPay](https://funpay.com)
-
-**Development with API**: I development with API on such web-servers: **[VK](https://vk.com/)**, **[Discord](https://discord.com)**, **Telegram**, and other.
-
-# If you want to support me:
-Card: *4377 7237 7634 0170* (Tinkoff)
-
-
-# My contacts
-If you have questions, offers or you want talk with me, dont be shy: [My VK](https://vk.com/vefixx)
-
-Discord: fkjyfeq
-
-Discord server: https://discord.gg/NCxYg7skc5
-
-Telegram: [@vsupman](https://t.me/vsupman)
-
-YouTube: https://www.youtube.com/channel/UCx0BixuOCI65D8c3fBjC2Zw
-
-VK: https://vk.com/vefixx
-
-
-# My code
-## Part code of my bot №1
-![](https://github.com/vefixx/vefixx/assets/131001961/01947f57-7e49-4fa4-a1b1-003cdd27567b)
-
-## Part code of my bot №2
-![](https://github.com/vefixx/vefixx/assets/131001961/336fe3fc-cfff-4c98-99be-128e5d3b3268)
-
-## Part code of my bot №3
-![](https://github.com/vefixx/vefixx/assets/131001961/62771e27-6f65-4f3d-94a7-65a7e6d72639)
+## My contacts, where you can find me
+- **VK** - https://vk.com/vefixx
+- **Telegram** - https://t.me/vsupman
+- **My discord server** - https://discord.gg/NCxYg7skc5
+- **Youtube channel** - https://www.youtube.com/channel/UCx0BixuOCI65D8c3fBjC2Zw
 
 
