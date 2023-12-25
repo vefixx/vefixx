@@ -1,4 +1,7 @@
-# Welcome to my GitHub profile! 👋
+![VScripts vk banner](https://github.com/vefixx/vefixx/assets/131001961/d876ef23-4cc6-447a-9d31-cf59586d3d3a)
+
+# Welcome to my GitHub profile! 👋!
+
 ### Hello, my name is Artem, or **vefixx**. I'm **C#** and **Python** developer, for the most part I'm **developer of the bots**.
 
 ## About me and my projects
