@@ -9,7 +9,7 @@
 ## About me and my projects
 My bots is universal and suitable for everyone. I can write the script or bot for users, Of course it's paid.
 
-I also have popular bot of discord, his name is **[AutoposterBot](https://youtu.be/c4wnireOCho)**, and I have my own discord server, where on this moment **650+ users** | - **[click](https://discord.gg/NCxYg7skc5)**.
+I also have popular bot of discord, his name is **[AutoposterBot](https://youtu.be/c4wnireOCho)**, and I have my own discord server, where on this moment **700+ users** | - **[click](https://discord.gg/NCxYg7skc5)**.
 And i can try write bots not only **Python**, but also on **C#**.
 
 ## Only bots? No!
