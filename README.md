@@ -2,6 +2,8 @@
 
 # Welcome to my GitHub profile! 👋!
 
+<a href="https://github.com/vefixx" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vefixx&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
 ### Hello, my name is Artem, or **vefixx**. I'm **C#** and **Python** developer, for the most part I'm **developer of the bots**.
 
 ## About me and my projects
