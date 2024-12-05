@@ -1,5 +1,14 @@
-<a href="https://github.com/vefixx" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vefixx&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<div align="center">
 
-### <Hello?>
+# Welcome to my profile
+
+[![Telegram](https://img.shields.io/badge/TELEGRAM-2AA889?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/vsupman)
+[![Discord](https://img.shields.io/badge/DISCORD-2AA889?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/NCxYg7skc5)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/vefixx)
+</div>
+
+## My Stack
+<img src="assets/dotnet.svg", alt=".NET", width="50", height="50">
+
 
 
