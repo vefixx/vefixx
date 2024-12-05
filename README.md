@@ -8,7 +8,6 @@
 </div>
 
 ## My Stack
-<img src="assets/dotnet.svg", alt=".NET", width="50", height="50">
-
+<img src="assets/dotnet.svg" alt=".NET" width="50" height="50">
 
 
