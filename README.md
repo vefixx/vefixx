@@ -1,53 +1,51 @@
-<h1 align="center">Привет, я Артём!</h1>
-<h3 align="center">.NET Backend-разработчик</h3>
+### Привет, я Артём - .NET-разработчик
 
-<p align="center">
-  <a href="https://github.com/vefixx?tab=repositories">
-    <img src="https://img.shields.io/badge/Проекты-%20%E2%86%92-blue?style=for-the-badge&logo=github" alt="Проекты">
-  </a>
-  &nbsp;
-  <a href="https://t.me/vsupman">
-    <img src="https://img.shields.io/badge/Telegram-%20%E2%86%92-blue?style=for-the-badge&logo=telegram" alt="Telegram">
-  </a>
-</p>
+Разрабатываю приложения на .NET: бэкенды для телеграм-ботов, утилиты для парсинга и обработки данных, скрипты автоматизации, клиенты для внешних API. Часть проектов связана с автоматизацией торговых процессов (интеграции с Авито, Яндекс Маркет), но сфера применения решений шире - от обработки сообщений в каналах до фоновых задач по расписанию.
 
 ---
 
-### 🚀 Мой стек технологий
+### Проект: система мониторинга цен
 
-![C#](https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-%23239120.svg?style=for-the-badge&logo=.net&logoColor=white)
-![Entity Framework Core](https://img.shields.io/badge/EF_Core-%23239120.svg?style=for-the-badge&logo=.net&logoColor=white)
-![Hangfire](https://img.shields.io/badge/Hangfire-2C2D72?style=for-the-badge&logo=hangfire&logoColor=white)
+Реализовал решение для автоматического сбора и анализа цен конкурентов:
 
----
-
-### 💻 Мои ключевые проекты
-
-Здесь собраны мои главные пет-проекты.
-
-| Проект | Описание | Технологии |
-|--------|-----------|------------|
-| **[AiNewsBot-Backend](https://github.com/vefixx/AiNewsBot-Backend)** | Бэкенд для бота, работающего с AI и новостями | С#, ASP.NET Core, Hangfire, EF Core, AI Integration (OpenRouter) |
-| **[AiNewsBot-APILib](https://github.com/vefixx/AiNewsBot-APILib)** | Библиотека для работы с API новостного бота | C#, REST API, HttpClient |
-| **[AiNewsBot-Parser](https://github.com/vefixx/AiNewsBot-Parser)** | Парсер новостей для AI бота | C#, HTMLAgilityPack, Parsing |
-| **[YandexMarketAPI](https://github.com/vefixx/YandexMarketAPI)** | .NET клиент для API Яндекс.Маркета | C#, REST API, HttpClient |
-| **[TelegramBotAPIExtensions](https://github.com/vefixx/TelegramBotAPIExtensions)** | Библиотека расширений для Telegram Bot API | C#, Telegram.BotAPI |
-| **[AvitoAPI](https://github.com/vefixx/AvitoAPI)** | Неофициальный клиент для API Авито | C#, REST API, Web API |
-| **[VectorSchedulerChecker](https://github.com/vefixx/VectorSchedulerChecker)** | Проверка расписания автошколы с уведомлениями о новых записях | C#, HttpClient, Selenium |
+- Источник данных - сообщения из множества Telegram-каналов с торговыми объявлениями
+- Извлечение цен и характеристик товаров выполняется с помощью правил и шаблонов; протестирована интеграция ИИ для повышения точности распознавания
+- Данные кешируются для ускорения повторных запросов
+- Производительность: обработка набора из 1000 позиций занимает 2–3 секунды при первом запросе, 1.5 секунды - при последующих
+- Результаты используются для динамического ценообразования при выставлении товаров на Авито
 
 ---
 
-### 📊 Статистика GitHub
+### Технический подход
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vefixx&show_icons=true&theme=default&hide_border=true" alt="Статистика Vefixx" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vefixx&layout=compact&theme=default&hide_border=true" alt="Топ языков" height="160"/>
-</p>
+- Все проекты проектируются по принципам **Clean Architecture**. Доменный слой изолирован от инфраструктуры, зависимости инвертированы. Это позволяет вносить изменения в интеграции без модификации бизнес-логики.
+- Интеграции с внешними API реализуются через абстракции с обработкой ошибок, таймаутов и рейт-лимитов.
+- Для валидации критичных компонентов применяется **xUnit**.
+- Развёртывание - через **Docker**. В качестве СУБД использую **SQLite** (локальные сценарии) и **MySQL** (продакшен-среды).
 
 ---
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vefixx&label=Просмотры%20профиля&color=blue&style=flat" alt="Просмотры профиля" />
-</p>
+### Стек
+C# • .NET 9 • ASP.NET Core • Entity Framework Core
+
+HttpClient • Hangfire • xUnit • Docker
+
+SQLite • MySQL • Telegram Bot API
+
+---
+
+### Проекты
+
+- [AvitoAPI](https://github.com/vefixx/AvitoAPI) - клиент для работы с Авито
+- [YandexMarketAPI](https://github.com/vefixx/YandexMarketAPI) - интеграция с Яндекс Маркет
+- [AiNewsBot-Backend](https://github.com/vefixx/AiNewsBot-Backend) - бэкенд с фоновыми задачами (Hangfire)
+- [TelegramBotAPIExtensions](https://github.com/vefixx/TelegramBotAPIExtensions) - вспомогательные инструменты для Telegram Bot API
+- [VectorSchedulerChecker](https://github.com/vefixx/VectorSchedulerChecker) - утилита для отслеживания изменений в расписании с уведомлениями
+
+Полный список: [github.com/vefixx](https://github.com/vefixx?tab=repositories)
+
+---
+
+### Контакт
+
+[Telegram](https://t.me/vsupman)
