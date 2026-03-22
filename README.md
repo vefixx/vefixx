@@ -26,11 +26,17 @@
 ---
 
 ### Стек
-C# • .NET 9 • ASP.NET Core • Entity Framework Core
-
-HttpClient • Hangfire • xUnit • Docker
-
-SQLite • MySQL • Telegram Bot API
+- C#  
+- .NET 9
+- ASP.NET Core
+- Entity Framework Core
+- HttpClient
+- Hangfire
+- xUnit
+- Docker
+- SQLite
+- MySQL
+- Telegram Bot API
 
 ---
 
