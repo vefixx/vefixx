@@ -27,7 +27,7 @@
 
 ### Стек
 - C#  
-- .NET 9
+- .NET 8.0, 9.0
 - ASP.NET Core
 - Entity Framework Core
 - HttpClient
